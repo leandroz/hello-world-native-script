@@ -1,0 +1,4 @@
+platforms/*
+lib/*
+app/tns_modules/*
+app/App_Resources/*
